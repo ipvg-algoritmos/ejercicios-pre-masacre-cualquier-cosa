@@ -17,6 +17,7 @@ Cree un programa que reciba una cadena de texto e indique cuántas vocales y cu�
 > - El programa debe considerar tanto mayúsculas como minúsculas.
 > - Las letras acentuadas y la "ñ" deben ser consideradas como consonantes.
 
+
 ## Ejercicio 3
 
 Desarrolle un algoritmo que permita ingresar una lista de números y luego muestre el número mayor y el número menor de la lista.
