@@ -5,7 +5,7 @@ numero_buscar = int(input("Ingrese el numero que deseas buscar: "))
 if numero_buscar in numeros:
     posición = numeros.index(numero_buscar)
 
-    print(f"el numero {numero_buscar} se encuentra en la posicion {posicion} de la lista.")
+    print(f"el numero {numero_buscar} se encuentra en la posicion {posición} de la lista.")
 
 else:
     print(f"el numero {numero_buscar} no se encuentra en la lista")
